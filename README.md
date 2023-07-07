@@ -16,7 +16,4 @@ Importing the Dataset
 
 Data Cleaning
 
-Rolling Mean
-
-
 Conclusion
