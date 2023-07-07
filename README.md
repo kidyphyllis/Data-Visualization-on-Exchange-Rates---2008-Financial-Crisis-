@@ -16,4 +16,6 @@ Importing the Dataset
 
 Data Cleaning
 
+Euro - Dollar Rate during the 2007 - 2008's Financial Crisis Visualizations
+
 Conclusion
